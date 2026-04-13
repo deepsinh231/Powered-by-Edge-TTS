@@ -11,5 +11,3 @@ disable_embedding: true
 models:
 - coqui/XTTS-v2
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
